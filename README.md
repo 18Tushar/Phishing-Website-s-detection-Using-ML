@@ -1,2 +1,8 @@
+## Visit My Phishing Article on Meduim <a href='https://medium.com/@taruntiwari.hp/phishing-sites-predictor-using-fastapi-2b5de0272f0'>here</a> 
+## Complete Explanation of Project <a href='https://youtu.be/zKNXHluHneU'>here</a>
+### Deal with Phishing Attacks 
+## Website [link](https://www.cmswebsiteservices.com/work/malicious-link-detector)
+* Create a model which can easily predict Phishing URLs.
+* My Project will give you all information about it.
 
-Implemented a Phishing URL Detection system using Machine Learning (ML), integrating two algorithms: Multinomial Naive Bayes and Logistic Regression. The project utilized FastAPI for real-time URL analysis and response. Comprehensive preprocessing involved tokenization, count vectorization, and visualization of hidden links using networkx. Three datasets were merged into a 30MB frame, addressing target column imbalances, and achieving a usability score of 10.0. The logistic regression model demonstrated high accuracy (90.96%), and the entire pipeline was saved using Pickle for future use.
+<img src = 'https://github.com/taruntiwarihp/raw_images/blob/master/hack1.png'>
